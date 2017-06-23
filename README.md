@@ -12,8 +12,7 @@ progressed, I kept having new ideas, such as I should have some items in the gam
 player when the game is finished, it took me some time to look at the design again and again to finally add in all those features.
 
 I wanted to make the game as fun as possible (even though there's only one level to show) and also l tried to make it look as nice as
-possible, spent a lot of time adjusting those animations and redid those images. The ImageLoader class and Assets class make this
-project not optimally oop, but I did it for the convenience.
+possible, spent a lot of time adjusting those animations and redid those images.
 
 These are pretty much all I want to say about this project, I'm just happy it is done.
 ******************************************************
