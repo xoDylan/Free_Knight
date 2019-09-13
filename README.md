@@ -15,6 +15,3 @@ I wanted to make the game as fun as possible (even though there's only one level
 possible, spent a lot of time adjusting those animations and redid those images.
 
 These are pretty much all I want to say about this project, I'm just happy it is done.
-******************************************************
-
-Inspired by Mike
